@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document version="1.1.0">
+  <chunk>
+    <sensors>
+      <sensor id="0" label="Canon EOS 600D (33 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+      <sensor id="1" label="Canon EOS 600D (33 mm)" type="frame">
+        <resolution width="5184" height="3456"/>
+      </sensor>
+    </sensors>
+    <cameras>
+      <camera id="0" label="IMG_8187.JPG" sensor_id="0"/>
+      <camera id="1" label="IMG_8188.JPG" sensor_id="0"/>
+      <camera id="2" label="IMG_8189.JPG" sensor_id="0"/>
+      <camera id="3" label="IMG_8190.JPG" sensor_id="0"/>
+      <camera id="4" label="IMG_8191.JPG" sensor_id="0"/>
+      <camera id="5" label="IMG_8192.JPG" sensor_id="0"/>
+      <camera id="26" label="IMG_8196.JPG" sensor_id="1"/>
+      <camera id="27" label="IMG_8197.JPG" sensor_id="1"/>
+      <camera id="28" label="IMG_8198.JPG" sensor_id="1"/>
+      <camera id="29" label="IMG_8199.JPG" sensor_id="1"/>
+      <camera id="30" label="IMG_8200.JPG" sensor_id="1"/>
+      <camera id="31" label="IMG_8201.JPG" sensor_id="1"/>
+      <camera id="32" label="IMG_8202.JPG" sensor_id="1"/>
+      <camera id="33" label="IMG_8203.JPG" sensor_id="1"/>
+      <camera id="34" label="IMG_8204.JPG" sensor_id="1"/>
+      <camera id="35" label="IMG_8205.JPG" sensor_id="1"/>
+      <camera id="36" label="IMG_8206.JPG" sensor_id="1"/>
+      <camera id="37" label="IMG_8207.JPG" sensor_id="1"/>
+      <camera id="6" label="IMG_8214.JPG" sensor_id="0"/>
+      <camera id="7" label="IMG_8215.JPG" sensor_id="0"/>
+      <camera id="8" label="IMG_8216.JPG" sensor_id="0"/>
+      <camera id="9" label="IMG_8217.JPG" sensor_id="0"/>
+      <camera id="10" label="IMG_8218.JPG" sensor_id="0"/>
+      <camera id="11" label="IMG_8219.JPG" sensor_id="0"/>
+      <camera id="12" label="IMG_8222.JPG" sensor_id="0"/>
+      <camera id="13" label="IMG_8223.JPG" sensor_id="0"/>
+      <camera id="38" label="IMG_8224.JPG" sensor_id="1"/>
+      <camera id="39" label="IMG_8225.JPG" sensor_id="1"/>
+      <camera id="40" label="IMG_8226.JPG" sensor_id="1"/>
+      <camera id="41" label="IMG_8227.JPG" sensor_id="1"/>
+      <camera id="42" label="IMG_8228.JPG" sensor_id="1"/>
+      <camera id="43" label="IMG_8229.JPG" sensor_id="1"/>
+      <camera id="44" label="IMG_8232.JPG" sensor_id="1"/>
+      <camera id="14" label="IMG_8236.JPG" sensor_id="0"/>
+      <camera id="15" label="IMG_8237.JPG" sensor_id="0"/>
+      <camera id="16" label="IMG_8238.JPG" sensor_id="0"/>
+      <camera id="17" label="IMG_8239.JPG" sensor_id="0"/>
+      <camera id="18" label="IMG_8240.JPG" sensor_id="0"/>
+      <camera id="19" label="IMG_8242.JPG" sensor_id="0"/>
+      <camera id="20" label="IMG_8243.JPG" sensor_id="0"/>
+      <camera id="21" label="IMG_8244.JPG" sensor_id="0"/>
+      <camera id="22" label="IMG_8245.JPG" sensor_id="0"/>
+      <camera id="23" label="IMG_8246.JPG" sensor_id="0"/>
+      <camera id="24" label="IMG_8247.JPG" sensor_id="0"/>
+      <camera id="25" label="IMG_8248.JPG" sensor_id="0"/>
+      <camera id="45" label="IMG_8251.JPG" sensor_id="1"/>
+      <camera id="46" label="IMG_8252.JPG" sensor_id="1"/>
+      <camera id="47" label="IMG_8253.JPG" sensor_id="1"/>
+      <camera id="48" label="IMG_8254.JPG" sensor_id="1"/>
+      <camera id="49" label="IMG_8255.JPG" sensor_id="1"/>
+      <camera id="50" label="IMG_8256.JPG" sensor_id="1"/>
+      <camera id="51" label="IMG_8259.JPG" sensor_id="1"/>
+      <camera id="52" label="IMG_8260.JPG" sensor_id="1"/>
+    </cameras>
+    <markers>
+      <marker id="0" label="point 1"/>
+      <marker id="1" label="point 2"/>
+      <marker id="2" label="point 3"/>
+      <marker id="6" label="point 3"/>
+      <marker id="3" label="point 4"/>
+      <marker id="7" label="point 4"/>
+      <marker id="4" label="point 5"/>
+      <marker id="8" label="point 5"/>
+      <marker id="5" label="point 6"/>
+      <marker id="9" label="point 6"/>
+    </markers>
+    <scalebars>
+      <scalebar id="0" label="point 1_point 2">
+        <endpoint marker_id="0"/>
+        <endpoint marker_id="1"/>
+        <reference d="8.0000000000000002e-002" enabled="true"/>
+      </scalebar>
+    </scalebars>
+    <frames>
+      <frame id="0">
+        <markers>
+          <marker marker_id="0">
+            <location camera_id="0" pinned="true" x="2.3976187e+003" y="1.9590422e+003"/>
+            <location camera_id="1" pinned="true" x="2.8349109e+003" y="2.0044359e+003"/>
+          </marker>
+          <marker marker_id="1">
+            <location camera_id="0" pinned="true" x="2.9968149e+003" y="1.9219708e+003"/>
+            <location camera_id="1" pinned="true" x="3.3695813e+003" y="1.8886682e+003"/>
+          </marker>
+          <marker marker_id="2">
+            <location camera_id="5" pinned="true" x="1.9780857e+003" y="3.0196575e+003"/>
+            <location camera_id="14" pinned="true" x="4.2265332e+003" y="3.0359326e+003"/>
+          </marker>
+          <marker marker_id="6">
+            <location camera_id="27" pinned="true" x="4.2429238e+003" y="2.8050950e+003"/>
+            <location camera_id="43" pinned="true" x="1.2897727e+003" y="3.1697681e+003"/>
+            <location camera_id="44" pinned="true" x="1.6188770e+003" y="3.2476941e+003"/>
+          </marker>
+          <marker marker_id="3">
+            <location camera_id="0" pinned="true" x="4.5475776e+003" y="8.5959515e+002"/>
+            <location camera_id="1" pinned="true" x="4.5349658e+003" y="7.1394189e+002"/>
+          </marker>
+          <marker marker_id="7">
+            <location camera_id="33" pinned="true" x="6.5034033e+002" y="1.1206022e+003"/>
+            <location camera_id="34" pinned="true" x="9.3111157e+002" y="1.2561802e+003"/>
+          </marker>
+          <marker marker_id="4">
+            <location camera_id="0" pinned="true" x="5.0241191e+003" y="1.0360255e+003"/>
+            <location camera_id="1" pinned="true" x="4.9026387e+003" y="8.4426569e+002"/>
+          </marker>
+          <marker marker_id="8">
+            <location camera_id="33" pinned="true" x="1.3768329e+002" y="1.3776526e+003"/>
+            <location camera_id="34" pinned="true" x="3.9436963e+002" y="1.5852302e+003"/>
+          </marker>
+          <marker marker_id="5">
+            <location camera_id="0" pinned="true" x="4.4740552e+003" y="1.9586807e+003"/>
+            <location camera_id="1" pinned="true" x="4.4560771e+003" y="1.7581063e+003"/>
+          </marker>
+          <marker marker_id="9">
+            <location camera_id="33" pinned="true" x="8.0732220e+002" y="2.2774158e+003"/>
+            <location camera_id="34" pinned="true" x="1.0883628e+003" y="2.4756475e+003"/>
+          </marker>
+        </markers>
+      </frame>
+    </frames>
+    <transform>
+      <rotation>1.0000000000000000e+000 -2.9274135154685640e-032 0.0000000000000000e+000 -2.3111159332646743e-032 1.0000000000000000e+000 4.9303806576313238e-032 -4.9303806576313238e-032 0.0000000000000000e+000 1.0000000000000000e+000</rotation>
+      <translation>7.9409338805090657e-023 -8.2718061255302786e-025 0.0000000000000000e+000</translation>
+      <scale>2.3735128902601246e-001</scale>
+    </transform>
+    <region>
+      <center>-5.7859599999868605e-001 -3.2026757726828184e-002 4.4384712528156776e+000</center>
+      <size>3.1060297904439134e+000 9.0233256633145698e-001 2.1417781735191033e-001</size>
+      <R>-9.5620843671848998e-001 -3.4137728229010102e-002 2.9068890769987049e-001 -7.5803677973198702e-002 -9.3040195306217988e-001 -3.5861679846852840e-001 2.8269989026194758e-001 -3.6494769659424314e-001 8.8707043170000843e-001</R>
+    </region>
+    <settings>
+      <property name="accuracy_tiepoints" value="4.0000000000000000e+000"/>
+      <property name="accuracy_cameras" value="1.0000000000000000e+001"/>
+      <property name="accuracy_markers" value="5.0000000000000001e-003"/>
+      <property name="accuracy_scalebars" value="1.0000000000000000e-003"/>
+      <property name="accuracy_projections" value="1.0000000000000001e-001"/>
+    </settings>
+  </chunk>
+</document>
